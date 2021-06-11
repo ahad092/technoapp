@@ -65,7 +65,7 @@
         </v-card>
       </v-col>
     </v-row>
-    <v-dialog v-model="opendialog" width="700px">
+    <v-dialog v-model="opendialog" width="750px">
       <v-card>
         <v-card-title>
           <span class="headline">{{openpost.title}}</span>
